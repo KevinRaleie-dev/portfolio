@@ -1,7 +1,7 @@
 import { Container, Box, Badge, Flex, Text } from '@chakra-ui/react'
 import React from 'react'
 
-export const BlogView = () => {
+const BlogView = () => {
     return (
         <Container mt='2rem' mb='10rem'>
             <Flex>
@@ -17,3 +17,5 @@ export const BlogView = () => {
         </Container>
     )
 }
+
+export default BlogView;
