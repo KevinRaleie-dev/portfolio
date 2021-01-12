@@ -5,7 +5,7 @@ import Image from 'next/image';
 import { Nav } from '../shared/Nav'
 import NextLink from 'next/link';
 import { motion } from 'framer-motion';
-import { BlogView } from './components/BlogView';
+import BlogView from '../components/BlogView';
 
 export default function Home() {
   const variants = {
