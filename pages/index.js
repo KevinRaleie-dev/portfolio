@@ -41,11 +41,11 @@ export default function Home() {
           </Text>
           <Text fontSize='sm' mt={2} >
             I am a software developer, self-taught full stack web developer
-            who loves writing <code>code</code> for both the backend and the frontend. Yes i'm 
+            who loves writing <code>code</code> for both the backend and the frontend. Yes I'm 
             that flexible😅. 
             <br/>
             <br/>
-            I love solving problems and being a developer allows me to put those skills
+            I love solving problems and being a developer enables me to put those skills
             in practice, allowing me to pay attention to details when working on a project.
             <br/>
             <br/>
